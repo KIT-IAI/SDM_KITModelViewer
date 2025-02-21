@@ -1,0 +1,44 @@
+# CItyGML building enrichment
+
+3D building models in the citygml data format are freely available as open data in Germany and various other countries. However, this data usually does not contain information such as year of construction, building type or building usage type. This data is usually contained in the cadastral data. 
+As an application example, individual buildings from the 3D city model of the city of Vienna will be considered for a thermal analysis. The cadastral data for Vienna is freely available and can be converted into the geoJSON format. The CityGML city model and the GeoJSON data set can be imported and processed in the KITModelViewer. The Python plugin is used for this. In the CityGML buildings, the gml:name attribute is identical to the ‘ACD’ attribute from the building information in the cadastral data.  
+In the following Python script, a dictionary with the cadastral data is created in a first loop. The ACD identifier is used as the key and the entity with the building attributes as the value. In a second loop, the CityGML buildings are iterated over and the building information from the cadastral data is searched for using the building name in the dictionary. The year of construction is then searched for in this building information and the blog:yearOfConstruction attribute is created in the CityGML building and the corresponding value is assigned. 
+
+<u>Example code:</u>
+```
+def enrich_citygml_properties():
+
+    document = ifcdb.get_document()
+
+    geojsonDict = {} 
+
+    for geojson_entity in document.get_entities_by_type("GeoJSON Data"):
+
+        tBuildingName = geojson_entity.get_string_attribute("ACD")
+
+        geojsonDict[tBuildingName] = geojson_entity
+
+    for building in document.get_entities_by_type("bldg:Building"):
+
+        document.log_message(f"Building processed {building.name}")
+
+        geojson_entity = geojsonDict.get(building.name)
+
+        if geojson_entity != None:
+
+            tBaujahr = geojson_entity.get_string_attribute("BAUJAHR")
+
+            try:
+                    
+                iBaujahr = int(tBaujahr)
+                    
+                if iBaujahr > 0:
+
+                    building.add_date_attribute("bldg:yearOfConstruction", iBaujahr, 0, 0)
+
+                    document.log_message(f"Name: {building.name}: yearOfConstruction {iBaujahr} assigned")
+
+            except:
+
+                document.log_message(f"Conversion failed {tBaujahr}")
+```
