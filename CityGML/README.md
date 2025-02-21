@@ -1,3 +1,3 @@
 # CityGML
 
-* Enrichment of citygml building attributes with cadastral data.
+* Enrichment of citygml building with cadastral data.
