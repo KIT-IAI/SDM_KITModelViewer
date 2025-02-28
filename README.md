@@ -10,7 +10,7 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 
 ## Application Examples
 * Creation of 3D CityGML buildings from OSM data
-* Setup und usage of a OGC web service
+* Setup und usage of a OGC Web Feature Service
   
 ## Examples of Python Scripts
 * [CityGML](CityGML)
