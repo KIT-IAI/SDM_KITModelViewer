@@ -1,6 +1,6 @@
 # KITModelViewer
 
-The KITModelViewer is free software developed at the Institute for Automation and Applied Computer Science at KIT (Karlsruhe Institute of Technology). It is used to visualise semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus here is on open, standardised data formats.
+The KITModelViewer is a freeware application developed at the Institute for Automation and Applied Computer Science at KIT (Karlsruhe Institute of Technology). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus here is on open, standardised data formats.
 
 On the detail level of buildings, the IFC data model is supported in the SPF (STEP Physical File) and ifcXML file formats from version IFC2X onwards. For the building simulation, gbXML (Green Building XML) is supported, which serves as an exchange file format from BIM to energy simulation systems.
 
