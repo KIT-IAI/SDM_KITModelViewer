@@ -8,10 +8,11 @@ On the detail level of cities and districts, CityGML is supported from version 0
 
 The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism. Various use cases for the application of the KITModelViewer are also documented here step by step.
 
-## Usage
-
 ## Application Examples
-[CityGML](CityGML)
+
+## Examples of Python Scripts
+* [CityGML](CityGML)
+
 ## How to cite
 
 ```bibtex
