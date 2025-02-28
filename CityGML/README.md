@@ -1,3 +1,3 @@
 # CityGML
 
-* [Example for the Enrichment of citygml buildings with cadastral data.](CityGML_Building_Enrichment.md)
+* [Enrichment of cityGML buildings with cadastral data using open data from the City of Vienna.](CityGML_Building_Enrichment.md)
