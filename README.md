@@ -12,7 +12,7 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 In addition, various use cases for the application of the KITModelViewer with different data formats are documented in this repo.
 
 ## Application Examples
-* Creation of 3D CityGML buildings from OSM data
+* Creation of 3D CityGML buildings based on OSM data
 * Setup und usage of a OGC Web Feature Service
   
 ## Examples of Python Scripts
