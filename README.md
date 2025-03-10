@@ -1,12 +1,15 @@
 # KITModelViewer
 
-The KITModelViewer is a freeware application developed at the Institute for Automation and Applied Computer Science at KIT (Karlsruhe Institute of Technology). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus here is on open, standardised data formats.
+The KITModelViewer is a freeware application developed at the Institute for Automation and Applied Computer Science at KIT (Karlsruhe Institute of Technology). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus is on open, standardised data formats.
 
 On the detail level of buildings, the IFC data model is supported in the SPF (STEP Physical File) and ifcXML file formats from version IFC2X onwards. For the building simulation, gbXML (Green Building XML) is supported, which serves as an exchange file format from BIM to energy simulation systems.
 
 On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
 
-The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism. Various use cases for the application of the KITModelViewer are also documented here step by step.
+The KITModelViewer has its own SDK that enables the development of plugin extensions in C++. In addition, the software has a Python API that is an integral part of the KITModelViewer in the form of a plugin. The Python plugin is available as open source and can be extended using the Plugin SDK.
+
+The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism.
+In addition, various use cases for the application of the KITModelViewer with different data formats are documented in this repo.
 
 ## Application Examples
 * Creation of 3D CityGML buildings from OSM data
