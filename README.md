@@ -13,6 +13,17 @@ An overview of freely available plugins can be found here: [SDM_Plugin_General](
 The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism.
 In addition, various use cases for the application of the KITModelViewer with different data formats are documented in this repo.
 
+# Supported data models and file formats
+* IFC
+* gbXML
+* CityGML
+* e57
+* OSM
+* GeoJson
+* ShapeFile
+* DXF
+* 
+
 ## Application Examples
 * Creation of 3D CityGML buildings based on OSM data
 * Setup und usage of a OGC Web Feature Service
