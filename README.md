@@ -16,13 +16,12 @@ In addition, various use cases for the application of the KITModelViewer with di
 # Supported data models and file formats
 * IFC
 * gbXML
-* CityGML
-* e57
-* OSM
-* GeoJson
-* ShapeFile
-* DXF
-* 
+* GML (CityGML, EnergyADE, ...)
+* LandXML
+* EnergyPlus (IDF, EPjson)
+* CIM
+* Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
+* Panorama Images (tif, jpg, png, ...)
 
 ## Application Examples
 * Creation of 3D CityGML buildings based on OSM data
