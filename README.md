@@ -6,6 +6,8 @@ On the detail level of buildings, the IFC data model is supported in the SPF (ST
 
 On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
 
+<img width="1545" alt="KITModelViewer" src="https://github.com/KIT-IAI/SDM_LITModelViewer/assets/">
+
 An [SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) is provided for the KITModelViewer, which enables the development of plugins in C++. A Python API is also available, which has been implemented as a plugin. The [Python Plugin](https://github.com/KIT-IAI/SDM_Plugin_Python) is available as open source and can be extended with the [Plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK).
 
 An overview of freely available plugins can be found here: [SDM_Plugin_General](https://github.com/KIT-IAI/SDM_Plugin_General)
