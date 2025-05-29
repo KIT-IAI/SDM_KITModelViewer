@@ -19,12 +19,12 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
 ## Supported data models and file formats
-* IFC
-* gbXML
-* GML (CityGML, EnergyADE, ...)
+* IFC - Industry Foundation Classes
+* gbXML - Green Building XML
+* GML - Geography Markup Language (CityGML, EnergyADE, NAS, ALKIS-WFS, ...)
 * LandXML
 * EnergyPlus (IDF, EPjson)
-* CIM
+* CIM - Common Information Model
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
 * Panorama Images (tif, jpg, png, ...)
 
