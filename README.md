@@ -6,14 +6,17 @@ On the detail level of buildings, the IFC data model is supported in the SPF (ST
 
 On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
 
+In addition to the two major data models IFC and CityGML, a whole range of other data formats are supported ([see also](Supported-data-models-and-file-formats)).
+
 <img width="1545" alt="KITModelViewer" src="https://github.com/user-attachments/assets/494ebacb-02d9-426f-9b8c-48ec2d2cbc8f">
 
-An [SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) is provided for the KITModelViewer, which enables the development of plugins in C++. A Python API is also available, which has been implemented as a plugin. The [Python Plugin](https://github.com/KIT-IAI/SDM_Plugin_Python) is available as open source and can be extended with the [Plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK).
+There are two APIs for the KITModelViewer. One is a [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) for the rapid development of compact scripts to evaluate the imported data or for the development of more complex Python plugins with integration of external modules. The Python Plugin is available as open source and is realized as a plugin based on the C++ plugin SDK.
+For more experienced developers with C++ knowledge, a [plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) is available that provides full access to the internal data structures and functionalities.
 
 An overview of freely available plugins can be found here: [SDM_Plugin_General](https://github.com/KIT-IAI/SDM_Plugin_General)
 
 The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism.
-In addition, various use cases for the application of the KITModelViewer with different data formats are documented in this repo.
+In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
 # Supported data models and file formats
 * IFC
