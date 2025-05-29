@@ -33,7 +33,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * Setup und usage of a OGC Web Feature Service
   
 ## Examples of Python Scripts
-* [CityGML](CityGML)
+* [CityGML](Python/CityGML)
 
 ## How to cite
 
