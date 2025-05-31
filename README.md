@@ -31,7 +31,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Supported web services
 * OGC web services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
 * Web map servies (Google, OSM, Bing, ...)
-* LOPoCS - point cloud server
+* LOPoCS - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
 * ETHOS.BUILDA - Residential Building TABULA Archetype Dataset Germany
 * bSDD - buildingSMART Data Dictionary
