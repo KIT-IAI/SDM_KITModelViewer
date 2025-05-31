@@ -21,7 +21,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
 * gbXML - Green Building XML
-* GML - Geography Markup Language (CityGML, EnergyADE, NAS, ALKIS-WFS, ...)
+* GML - Geography Markup Language (CityGML, EnergyADE, XPlangGML, INSPIRE, NAS, ALKIS-WFS, ...)
 * LandXML
 * EnergyPlus (IDF, EPjson)
 * CIM - Common Information Model
