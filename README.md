@@ -6,7 +6,7 @@ On the detail level of buildings, the IFC data model is supported in the SPF (ST
 
 On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
 
-In addition to the two major data models IFC and CityGML, a whole range of other data formats are supported, either file-based or as a web service. ([see also](#Supported-data-models-and-file-formats)).
+In addition to the two major data models IFC and CityGML, a whole range of other data formats are supported, either file-based ([see also](#Supported-data-models-and-file-formats)) or as a web service ([see also](#Supported-web-services)).
 
 <img width="1545" alt="KITModelViewer" src="https://github.com/user-attachments/assets/494ebacb-02d9-426f-9b8c-48ec2d2cbc8f"><br>
 
@@ -27,6 +27,14 @@ In addition, various use cases for the application of the KITModelViewer with di
 * CIM - Common Information Model
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
 * Panorama Images (tif, jpg, png, ...)
+
+## Supported web services
+* OGC web services (WFS, WMS, ...)
+* Web map servies (Google, OSM, Bing, Yahoo, ...)
+* OpenStreetMap (OSM API, Overpass API)
+* ETHOS.BUILDA - Residential Building TABULA Archetype Dataset Germany
+* bSDD - buildingSMART Data Dictionary
+* LOPoCS - point cloud server
 
 ## Application Examples
 * Creation of 3D CityGML buildings based on OSM data
