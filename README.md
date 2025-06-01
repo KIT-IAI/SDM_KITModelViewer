@@ -19,7 +19,7 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
 ## Features
-* Attributes, relations and queries<br>
+* Attributes, properties and relations<br>
 Display associated properties and relations of a model or individual object
 * Geo-referencing support<br>
 Models can be geo-referenced - e.g. with coordinate reference systems such as EPSG codes or local reference points.
