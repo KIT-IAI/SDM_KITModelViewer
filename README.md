@@ -19,13 +19,13 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
 ## Features
-* Attributes, relations and queries
+* Attributes, relations and queries<br>
 Display of all associated properties (PropertySets, sets, classifications, ...) of a model or individual objects.
-* Geo-referencing support
+* Geo-referencing support<br>
 Models can be geo-referenced - e.g. with coordinate reference systems such as EPSG codes or local reference points.
-* mvdXML data validation
+* mvdXML data validation<br>
 Automated validation of models against defined MVD (Model View Definition) requirements based on mvdXML.
-* mvdXML-Editor
+* mvdXML-Editor<br>
 Integrated tool for editing and creating mvdXML specifications directly in the viewer.
 
 ## Supported data models and file formats
