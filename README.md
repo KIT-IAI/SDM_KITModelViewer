@@ -18,6 +18,16 @@ An overview of freely available plugins can be found here: [SDM_Plugin_General](
 The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism.
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
+## Features
+* Attributes, relations and queries
+Display of all associated properties (PropertySets, sets, classifications, ...) of a model or individual objects.
+* Geo-referencing support
+Models can be geo-referenced - e.g. with coordinate reference systems such as EPSG codes or local reference points.
+* mvdXML data validation
+Automated validation of models against defined MVD (Model View Definition) requirements based on mvdXML.
+* mvdXML-Editor
+Integrated tool for editing and creating mvdXML specifications directly in the viewer.
+
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
 * gbXML - Green Building XML
