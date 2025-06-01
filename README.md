@@ -20,13 +20,13 @@ In addition, various use cases for the application of the KITModelViewer with di
 
 ## Features
 * Attributes, relations and queries<br>
-Display of all associated properties (PropertySets, sets, classifications, ...) of a model or individual objects.
+Display associated properties and relations of a model or individual object
 * Geo-referencing support<br>
 Models can be geo-referenced - e.g. with coordinate reference systems such as EPSG codes or local reference points.
 * mvdXML data validation<br>
 Automated validation of models against defined MVD (Model View Definition) requirements based on mvdXML.
 * mvdXML-Editor<br>
-Integrated tool for editing and creating mvdXML specifications directly in the viewer.
+Integrated tool for editing and creating mvdXML specifications.
 
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
