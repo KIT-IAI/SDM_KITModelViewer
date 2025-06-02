@@ -19,6 +19,7 @@ The sources of the KITModelViewer are not publicly accessible for various reason
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
 
 ## Features
+* Standard functionality for displaying, navigating in and interacting with 3D models
 * Detailed presentation of attributes, property sets and relations
 * Interactive object lists enable a direct link between the list and the 3D scene
 * Individual colour coding of objects based on attributes and properties 
