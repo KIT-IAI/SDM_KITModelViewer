@@ -24,7 +24,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * Interactive object lists enable a direct link between the list and the 3D scene
 * Individual colour coding of objects based on attributes and properties 
 * Merging different models and file formats in one 3D scene
-* Georeferencing Support for a wide range of different spatial reference systems
+* Georeferencing support for a wide range of different spatial reference systems
 * BIM validation based on mvdXML, including the creation and editing of mvdXML specifications
 
 ## Supported data models and file formats
