@@ -21,11 +21,11 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Features
 * Standard functionality for displaying, navigating in and interacting with 3D models
 * Detailed presentation of attributes, property sets and relations
-* Interactive object lists enable a direct link between the list and the 3D scene
+* Interactive object lists enable a direct link between the list and the 3D scene<br>
   <img width="500" alt="InteractiveLists" src="https://github.com/user-attachments/assets/f49fda25-f650-414b-8b29-90a94778fe71" />
-* Individual colour coding of objects based on attributes and properties (The example shows the ThermalTransmittance property of the IFC common property sets)
+* Individual colour coding of objects based on attributes and properties (The example shows the ThermalTransmittance property of the IFC common property sets)<br>
   <img width="500" alt="ColorCoding_u-Value" src="https://github.com/user-attachments/assets/fde0d293-5e5a-48a0-b3a3-556f2413f16e" />
-* Merging different models and file formats in one 3D scene (The example shows merged data containing IFC, CityGML and a map service)
+* Merging different models and file formats in one 3D scene (The example shows merged data containing IFC, CityGML and a map service)<br>
   <img width="500" alt="ModelMerge" src="https://github.com/user-attachments/assets/d4471f66-b342-4515-8b87-3a7dfdbb81e3" />
 * Georeferencing support for a wide range of different spatial reference systems
 * BIM validation based on mvdXML, including the creation and editing of mvdXML specifications
