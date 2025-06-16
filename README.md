@@ -6,7 +6,7 @@ On the detail level of buildings, the IFC data model is supported in the SPF (ST
 
 On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
 
-In addition to the two major data models IFC and CityGML, a whole range of other data formats are supported, either ([file-based](#Supported-data-models-and-file-formats)) or as a ([web service](#Supported-web-services)).
+In addition to the two major data models IFC and CityGML, a whole range of other data formats are supported, either [file-based](#Supported-data-models-and-file-formats) or as a [web service](#Supported-web-services).
 
 <img width="1545" alt="KITModelViewer" src="https://github.com/user-attachments/assets/494ebacb-02d9-426f-9b8c-48ec2d2cbc8f"><br>
 
