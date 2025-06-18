@@ -1,4 +1,4 @@
-# CItyGML building enrichment
+# CityGML building enrichment
 
 3D building models in the CityGML data format are freely available as open data in Germany and various other countries. However, this data does not usually contain information like year of construction, building type or building usage type. This information is typically contained in the cadastral data. 
 As an application example, individual buildings from the 3D city model of the city of Vienna will be considered for a thermal analysis. The cadastral data for Vienna is also freely available as an XML Format and can be converted into the geoJSON format. The CityGML city model and the GeoJSON dataset can be imported and processed in the KITModelViewer. A small Python script is used to enrich the CityGML buildings and executed with the Python plugin. In the CityGML buildings, the gml:name attribute is identical to the ‘ACD’ attribute from the building information in the cadastral data.  
