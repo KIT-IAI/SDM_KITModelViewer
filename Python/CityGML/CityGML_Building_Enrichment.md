@@ -5,7 +5,7 @@ As an application example, individual buildings from the 3D city model of the ci
 In the following Python script, a dictionary with the cadastral data is created in a first loop. The ACD identifier is used as the key and the entity with the building attributes as the value. In a second loop, the CityGML buildings are iterated over and the building information from the cadastral data is searched by using the building name in the dictionary. The year of construction is then searched within this building information and the bldg:yearOfConstruction attribute is created in the CityGML building and the corresponding value is assigned. 
 Alternatively, a spatial search would also be possible here. The cadastral data contains one point geometry per building. This point coordinate can be used to check within which building it is located and the attributes searched for can be assigned accordingly.
 
-<u>Example code:</u>
+<u>__Example code:__</u>
 ```
 import ifcdb
 
