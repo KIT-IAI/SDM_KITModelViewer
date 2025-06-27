@@ -7,6 +7,8 @@ Alternatively, a spatial search would also be possible here. The cadastral data 
 
 <u>Example code:</u>
 ```
+import ifcdb
+
 def enrich_citygml_properties():
 
     document = ifcdb.get_document()
