@@ -126,9 +126,11 @@ def get_roof_surface():
 
 ## Description
 
-__Main Document Control__ The code begins by establishing a connection to the document and initializing message logging. This setup ensures proper access to all document entities and enables tracking of the process through message outputs.  
-__First Entity Loop__ The initial loop iterates through all entities in the document using the get_entities method. This loop's purpose is to examine every entity available in the document to identify potential building structures.  
-__First Conditional Check (Building Type)__ Within the first loop, a conditional statement checks if the current entity is of type "building". This check serves as a filter to ensure only building-type entities are processed further, preventing unnecessary processing of non-building entities.  
+__Main Document Control__  
+The code begins by establishing a connection to the document and initializing message logging. This setup ensures proper access to all document entities and enables tracking of the process through message outputs.  
+__First Entity Loop__  
+The initial loop iterates through all entities in the document using the get_entities method. This loop's purpose is to examine every entity available in the document to identify potential building structures.  
+__First Conditional Check (Building Type)__  Within the first loop, a conditional statement checks if the current entity is of type "building". This check serves as a filter to ensure only building-type entities are processed further, preventing unnecessary processing of non-building entities.  
 __Children Collection__ After identifying a building, the code retrieves all children elements associated with that building using the get_children method. This collection step is crucial for accessing the hierarchical structure of building components that need to be analyzed.
 __Second Loop (Children Processing)__ A second loop processes each child element obtained from the building structure. The purpose of this loop is to examine each component of the building individually, allowing for detailed analysis of specific building elements.  
 __Second Conditional Check__ (Roof Surface) Within the children loop, another conditional statement identifies if the current child element is a roof surface. This specific check enables the code to focus on roof-related calculations and data collection.  
