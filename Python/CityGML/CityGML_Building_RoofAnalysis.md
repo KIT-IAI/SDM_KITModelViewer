@@ -4,7 +4,7 @@
  
 As not every building is suitable for an extension, building models are analysed in the neutral CityGML standard to identify suitable existing buildings. The aim is to quantify residential buildings with flat roofs and sufficient roof area for a RoofKIT extension. The Python script developed for this purpose identifies precisely these residential buildings with flat roofs and writes their gml:id, building height and roof area to a .csv file for further processing.
 
-##Main Document Control
+## Main Document Control
 The code begins by establishing a connection to the document and initializing message logging. This setup ensures proper access to all document entities and enables tracking of the process through message outputs.
 First Entity Loop The initial loop iterates through all entities in the document using the get_entities method. This loop's purpose is to examine every entity available in the document to identify potential building structures.
 First Conditional Check (Building Type) Within the first loop, a conditional statement checks if the current entity is of type "building". This check serves as a filter to ensure only building-type entities are processed further, preventing unnecessary processing of non-building entities.
