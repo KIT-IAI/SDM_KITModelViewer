@@ -4,14 +4,14 @@ In various dialogues and menus, buttons and menu entries are assigned twice. The
 
 ## Browser Toolbar
 Keyboard control<br>
-    <kbd>&uarr;</kbd>                   Navigate to previous element<br>
-    <kbd>&darr;</kbd>                   Navigate to next element<br>
-    <kbd>&rarr;</kbd>                   Navigate one level down<br>
-    <kbd>&larr;</kbd>                   Navigate one level up<br>
-    <kbd>\+</kbd>                    Show child elements<br>
-    <kbd>\-</kbd>                    Hide child elements<br>
-    <kbd>HOME</kbd>                Select first element<br>
-    <kbd>END</kbd>                 Select last element<br>
-    <kbd>Page Up</kbd>           Select first element<br>
-    <kbd>Page Down</kbd>        Select last element<br>
-    <kbd>CRTL</kbd> + <kbd>L</kbd>      Show or hide tree lines<br>
+Â Â Â Â <kbd>&uarr;</kbd>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Navigate to previous element<br>
+Â Â Â Â <kbd>&darr;</kbd>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Navigate to next element<br>
+Â Â Â Â <kbd>&rarr;</kbd>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Navigate one level down<br>
+Â Â Â Â <kbd>&larr;</kbd>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Navigate one level up<br>
+Â Â Â Â <kbd>\+</kbd>  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Show child elements<br>
+Â Â Â Â <kbd>\-</kbd>  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Hide child elements<br>
+Â Â Â Â <kbd>HOME</kbd>  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Select first element<br>
+Â Â Â Â <kbd>END</kbd>  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Select last element<br>
+Â Â Â Â <kbd>Page Up</kbd>  Â Â Â Â Â Â Â Â Â Select first element<br>
+Â Â Â Â <kbd>Page Down</kbd>  Â Â Â Â Â Â Select last element<br>
+Â Â Â Â <kbd>CRTL</kbd> + <kbd>L</kbd>Â Â Â Â Â Â **Tab***Show or hide tree lines<br>
