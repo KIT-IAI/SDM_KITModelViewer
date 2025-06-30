@@ -1,5 +1,7 @@
 # Documenation
 
+The program settings can be reset using <kbd>CRTL</kbd> + <kbd>R</kbd>
+
 In various dialogues and menus, buttons and menu entries are assigned twice. Their functionality is displayed and controlled by pressing the <kbd>CRTL</kbd> key.
 
 ## Browser Toolbar
