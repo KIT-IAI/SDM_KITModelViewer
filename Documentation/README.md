@@ -19,4 +19,4 @@ Keyboard control<br>
     <kbd>Page Up</kbd>           Select first element<br>
     <kbd>Page Down</kbd>        Select last element<br>
     <kbd>CRTL</kbd> + <kbd>L</kbd>      Show or hide tree lines<br>
-    <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
+    <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
