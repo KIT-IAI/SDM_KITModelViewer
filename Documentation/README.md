@@ -8,6 +8,7 @@ In various dialogues and menus, buttons and menu entries are assigned twice. The
 
 ## Browser Toolbar
 Keyboard control<br>
+    <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
     <kbd>&uarr;</kbd>                   Navigate to previous element<br>
     <kbd>&darr;</kbd>                   Navigate to next element<br>
     <kbd>&rarr;</kbd>                   Navigate one level down<br>
@@ -19,4 +20,5 @@ Keyboard control<br>
     <kbd>Page Up</kbd>           Select first element<br>
     <kbd>Page Down</kbd>        Select last element<br>
     <kbd>CRTL</kbd> + <kbd>L</kbd>      Show or hide tree lines<br>
-    <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
+    <kbd>CRTL</kbd> + <kbd>B</kbd>      Draw bold tree lines<br>
+    <kbd>CRTL</kbd> + <kbd>S</kbd>      Change tree style<br>
