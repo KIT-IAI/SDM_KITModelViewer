@@ -1,12 +1,13 @@
 # Documenation
 
+## Overview of keyboard shortcuts
 In addition to the File open menu item, a file can also be read in using drag & drop. If the <kbd>CRTL</kbd> key is pressed at the same time, a merge is performed and the data is added to the current document.
 
 The program settings can be reset using <kbd>CRTL</kbd> + <kbd>R</kbd>
 
 In various dialogues and menus, buttons and menu entries are assigned twice. Their functionality is displayed and controlled by pressing the <kbd>CRTL</kbd> key.
 
-## Browser Toolbar
+### Browser Toolbar
 Keyboard control<br>
     <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
     <kbd>&uarr;</kbd>                   Navigate to previous element<br>
