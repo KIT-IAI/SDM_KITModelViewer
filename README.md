@@ -37,7 +37,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * gbXML - Green Building XML
 * GML - Geography Markup Language (CityGML, EnergyADE, XPlangGML, INSPIRE, NAS, ALKIS-WFS, ...)
 * LandXML
-* EnergyPlus (IDF, EPjson)
+* EnergyPlus (IDF, epJSON)
 * CIM - Common Information Model
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
 * Panorama Images (tif, jpg, png, ...)
