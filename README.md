@@ -52,7 +52,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * ILCD - International Life Cycle Data system
 
 ## Application Examples
-* Query the IFC georeferencing information
+* Query IFC georeferencing information
 * Creation of 3D CityGML buildings based on OSM data
 * Setup und usage of a OGC Web Feature Service
   
@@ -69,4 +69,5 @@ In addition, various use cases for the application of the KITModelViewer with di
 	date         = {2025}
 }
 ```
+
 
