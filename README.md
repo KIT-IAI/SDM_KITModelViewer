@@ -29,7 +29,7 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="ModelMerge" src="https://github.com/user-attachments/assets/d4471f66-b342-4515-8b87-3a7dfdbb81e3" />
 * Georeferencing support for a wide range of different spatial reference systems<br>
   <img width="500" alt="CityGML_GeoReference" src="https://github.com/user-attachments/assets/d9cd3e62-8b13-43e2-b3e4-9d13b2db5f2f" />
-* BIM validation based on mvdXML, including the creation and editing of mvdXML definitions<br>
+* openBIM validation based on mvdXML, including the creation and editing of mvdXML definitions<br>
   <img width="500" alt="mvdXML" src="https://github.com/user-attachments/assets/20ea1764-5f90-4973-be52-edc617d41ba9" />
 
 ## Supported data models and file formats
@@ -75,6 +75,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
