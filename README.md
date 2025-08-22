@@ -1,6 +1,6 @@
 # KITModelViewer
 
-The [KITModelViewer](https://www.iai.kit.edu/ifc) is a Windows freeware application developed at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu) at KIT ([Karlsruhe Institute of Technology](https://www.kit.edu/)). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus is on open, standardised data formats.
+The [KITModelViewer](https://www.iai.kit.edu/ifc) is a Windows® freeware application developed at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu) at KIT ([Karlsruhe Institute of Technology](https://www.kit.edu/)). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus is on open, standardised data formats.
 
 On the detail level of buildings, the IFC data model is supported in the SPF (STEP Physical File) and ifcXML file formats from version IFC2X onwards. For the building simulation, gbXML (Green Building XML) is supported, which serves as an exchange file format from BIM to energy simulation systems.
 
@@ -60,7 +60,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * [CityGML](Python/CityGML)
 
 ## Dependencies
-The KITModelViewer is developed for the Windows operating system and requires the following software packages from Microsoft:<br>
+The KITModelViewer is developed for the Windows® operating system and requires the following software packages from Microsoft:<br>
 [Microsoft Visual Studio C++ Redistributalbe](https://aka.ms/vs/17/release/vc_redist.x64.exe).<br>
 [Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631).<br>
 Make sure that these packages are installed and the latest version of the redistributables is used.
@@ -75,6 +75,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
