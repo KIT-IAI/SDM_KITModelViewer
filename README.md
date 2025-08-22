@@ -59,6 +59,12 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Examples of Python Scripts
 * [CityGML](Python/CityGML)
 
+## Dependencies
+The KITModelViewer only supports the Windows operating system and requires the following software packages from Microsoft:
+[Microsoft Visual Studio C++ Redistributalbe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+[Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
+Make sure that these packages are installed and the latest version of the redistributables is used.
+
 ## How to cite
 
 ```bibtex
@@ -69,6 +75,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 	date         = {2025}
 }
 ```
+
 
 
 
