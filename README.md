@@ -45,9 +45,9 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
 * Web map services (Google, OSM, Bing, ...)
-* LOPoCS - Light OpenSource PointCloud Server
+* [LOPoCS](https://github.com/Oslandia/lopocs) - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
-* ETHOS.BUILDA - Residential Building TABULA Archetype Dataset Germany
+* [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) - Residential Building TABULA Archetype Dataset Germany
 * bSDD - buildingSMART Data Dictionary
 * ILCD - International Life Cycle Data system
 
@@ -75,6 +75,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
