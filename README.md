@@ -48,7 +48,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * [LOPoCS](https://github.com/Oslandia/lopocs) - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
 * [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) - Residential Building TABULA Archetype Dataset Germany
-* bSDD - buildingSMART Data Dictionary
+* [bSDD](https://search.bsdd.buildingsmart.org/) - buildingSMART Data Dictionary
 * ILCD - International Life Cycle Data system
 
 ## Application Examples
@@ -75,6 +75,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
