@@ -40,7 +40,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * EnergyPlus (IDF, epJSON)
 * CIM - Common Information Model (IEC 61970]
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
-* Panorama Images (tif, jpg, png, ...)  
+* Panorama Images (tif, jpg, png, ...)<br>
 Other supported formats:
 * Shapefile
 * GeoJSON
@@ -82,6 +82,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
