@@ -41,6 +41,13 @@ In addition, various use cases for the application of the KITModelViewer with di
 * CIM - Common Information Model (IEC 61970]
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
 * Panorama Images (tif, jpg, png, ...)
+Other supported formats:
+* Shapefile
+* GeoJSON
+* GPX
+* dotbim
+* ISYBAU
+* CPIxml
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
@@ -75,6 +82,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
