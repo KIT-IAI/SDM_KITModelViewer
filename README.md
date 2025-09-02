@@ -46,7 +46,7 @@ Other supported formats:
 * Shapefile
 * GeoJSON
 * GPX
-* dotbim
+* [dotbim](https://github.com/paireks/dotbim)
 * ISYBAU
 * CPIxml
 * Some 3D Formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
@@ -85,6 +85,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
