@@ -40,7 +40,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * EnergyPlus (IDF, epJSON)
 * CIM - Common Information Model (IEC 61970]
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
-* Panorama Images (tif, jpg, png, ...)
+* Panorama images (tif, jpg, png, ...)
 
 Other supported formats:
 * Shapefile
@@ -50,7 +50,7 @@ Other supported formats:
 * ISYBAU
 * CPIxml
 * Various 3D formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
-* Various Image formats (PNG, JPG, TIFF, ...)
+* Various image formats (PNG, JPG, TIFF, ...)
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
@@ -85,6 +85,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
