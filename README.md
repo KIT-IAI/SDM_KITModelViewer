@@ -49,8 +49,8 @@ Other supported formats:
 * [dotbim](https://github.com/paireks/dotbim)
 * ISYBAU
 * CPIxml
-* Various 3D Formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
-* Various Image Formats (PNG, JPG, TIFF, ...)
+* Various 3D formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
+* Various Image formats (PNG, JPG, TIFF, ...)
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
@@ -85,6 +85,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
