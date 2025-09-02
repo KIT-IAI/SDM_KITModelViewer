@@ -64,7 +64,7 @@ Other supported formats:
 ## Application Examples
 * Query IFC georeferencing information
 * Creation of 3D CityGML buildings based on OSM data
-* Setup und usage of a OGC Web Feature Service
+* Setup and usage of a OGC Web Feature Service
   
 ## Examples of Python Scripts
 * [CityGML](Python/CityGML)
@@ -85,6 +85,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
