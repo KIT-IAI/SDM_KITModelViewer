@@ -25,7 +25,7 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="InteractiveLists" src="https://github.com/user-attachments/assets/f49fda25-f650-414b-8b29-90a94778fe71" />
 * Individual colour coding of objects based on attributes and properties<br>(The example shows the ThermalTransmittance property of the IFC common property sets)<br>
   <img width="500" alt="ColorCoding_u-Value" src="https://github.com/user-attachments/assets/fde0d293-5e5a-48a0-b3a3-556f2413f16e" />
-* Merging different models and file formats in one 3D scene<br>(The example shows merged data containing IFC, CityGML and a map service)<br>
+* BIM and GIS integration. Merging different models and file formats in one 3D scene<br>(The example shows merged data containing IFC, CityGML and a map service)<br>
   <img width="500" alt="ModelMerge" src="https://github.com/user-attachments/assets/d4471f66-b342-4515-8b87-3a7dfdbb81e3" />
 * Georeferencing support for a wide range of different spatial reference systems<br>
   <img width="500" alt="CityGML_GeoReference" src="https://github.com/user-attachments/assets/d9cd3e62-8b13-43e2-b3e4-9d13b2db5f2f" />
@@ -85,6 +85,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
