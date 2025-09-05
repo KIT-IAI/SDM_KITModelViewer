@@ -48,6 +48,7 @@ Other supported formats:
 * GPX
 * [dotbim](https://github.com/paireks/dotbim)
 * ISYBAU
+* DXF
 * CPIxml
 * Various 3D formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
 * Various image formats (PNG, JPG, TIFF, ...)
@@ -85,6 +86,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
