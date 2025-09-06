@@ -74,7 +74,8 @@ Other supported formats:
 The KITModelViewer is developed for the Windows® operating system and requires the following software packages from Microsoft:<br>
 [Microsoft Visual Studio C++ Redistributalbe](https://aka.ms/vs/17/release/vc_redist.x64.exe).<br>
 [Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631).<br>
-Make sure that these packages are installed and the latest version of the redistributables is used.
+> [!IMPORTANT]
+> Make sure that these packages are installed and the latest version of the redistributables is used.
 
 ## How to cite
 
@@ -86,6 +87,7 @@ Make sure that these packages are installed and the latest version of the redist
 	date         = {2025}
 }
 ```
+
 
 
 
