@@ -35,8 +35,8 @@ In addition, various use cases for the application of the KITModelViewer with di
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
 * gbXML - Green Building XML
-* GML - Geography Markup Language (CityGML, EnergyADE, XPlangGML, INSPIRE, NAS, ALKIS-WFS, ...)
-	* CityGML, including ADE (Application Domain Extension) machanism (EnergyADE, ...)
+* GML - Geography Markup Language
+	* CityGML, supporting also the Application Domain Extension (ADE) machanism (EnergyADE, ...)
 	* XPlangGML
 	* INSPIRE
  	* NAS
@@ -94,6 +94,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
