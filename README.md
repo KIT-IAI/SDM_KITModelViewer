@@ -36,6 +36,12 @@ In addition, various use cases for the application of the KITModelViewer with di
 * IFC - Industry Foundation Classes
 * gbXML - Green Building XML
 * GML - Geography Markup Language (CityGML, EnergyADE, XPlangGML, INSPIRE, NAS, ALKIS-WFS, ...)
+	* CityGML, including ADE (Application Domain Extension) machanism (EnergyADE, ...)
+	* XPlangGML
+	* INSPIRE
+ 	* NAS
+  	* ALKIS-WFS
+  	* ...
 * LandXML
 * EnergyPlus (IDF, epJSON)
 * CIM - Common Information Model (IEC 61970]
@@ -88,6 +94,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
