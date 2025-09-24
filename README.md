@@ -45,6 +45,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 Other supported formats:
 * Shapefile
 * GeoJSON
+* GeoPackage
 * GPX
 * [dotbim](https://github.com/paireks/dotbim)
 * ISYBAU
@@ -87,6 +88,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
