@@ -1,4 +1,4 @@
-Dialog for IFC Georeference Information
+#Querying IFC georeferenceing information
 
 Supported variants of IFC georeferencing:
 - IfcMapConversion / IfcRigidOperation
