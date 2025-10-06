@@ -1,4 +1,4 @@
-# Querying IFC georeferenceing information
+# Querying IFC georeferencing information
 
 Supported types of IFC georeferencing:
 - IfcMapConversion / IfcRigidOperation
