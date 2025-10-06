@@ -2,8 +2,8 @@
 
 Supported types of IFC georeferencing:
 - IfcMapConversion / IfcRigidOperation
-- ePset_MapConversion / ePset_RigidOperation
-- Latitude/longitude of the IfcSite
+- Property sets ePset_MapConversion / ePset_RigidOperation
+- Geographic coordinates (Latitude / Longitude) of the IfcSite
 - Georeferencing via the WorldCoordinateSystem (WCS) of the IfcGeometricRepresentationContext
 - Global coordinates in the local placement of a component
 - Global coordinates within the coordinates of the geometry of a component
