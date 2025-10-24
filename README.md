@@ -75,6 +75,8 @@ Other supported formats:
 * Setup and usage of a OGC Web Feature Service
   
 ## Examples of Python Scripts
+* [IFC](Python/IFC)
+* [gbXML](Python/gbXML)
 * [CityGML](Python/CityGML)
 
 ## Dependencies
