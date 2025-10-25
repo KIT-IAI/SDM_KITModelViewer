@@ -11,7 +11,6 @@ document = ifcdb.get_document()
 nodeEntities = document.get_entities_by_type("IfcStructuralPointConnection")
 
 nodes = []
-    
 dictNodes = {}
     
 for entity in nodeEntities:
