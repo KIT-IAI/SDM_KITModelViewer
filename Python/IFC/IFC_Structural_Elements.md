@@ -1,6 +1,6 @@
 # Structural elements
 
-This example shows how elements of the static model (structural domain) can be queried in an IFC dataset.
+This example shows how elements of structural analysis can be queried in an IFC dataset.
 
 <u>__Example code:__</u>
 ```
