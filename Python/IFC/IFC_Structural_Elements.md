@@ -2,6 +2,8 @@
 
 This example shows how elements of structural analysis can be queried in an IFC dataset.
 
+<img width="1681" height="1086" alt="IFC_Structural_Elements" src="https://github.com/user-attachments/assets/344af6ed-d5af-49ee-8a90-7d44b451dbdf" />
+
 <u>__Example code:__</u>
 ```
 import ifcdb
