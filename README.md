@@ -2,7 +2,7 @@
 
 ## Main components
 * [KITModelViewer](https://www.iai.kit.edu/ifc) - Windows® freeware application
-* [plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) - Software development kit for developing your own plugins 
+* [Plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) - Software development kit for developing your own plugins 
 * [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) - Open-source plugin for a Python API
 * [SDM_Plugin_General](https://github.com/KIT-IAI/SDM_Plugin_General) - Repository with open-source plugins
 <br>
@@ -103,6 +103,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
