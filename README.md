@@ -37,7 +37,7 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="CityGML_GeoReference" src="https://github.com/user-attachments/assets/d9cd3e62-8b13-43e2-b3e4-9d13b2db5f2f" />
 * openBIM validation based on mvdXML, including the creation and editing of mvdXML definitions<br>
   <img width="500" alt="mvdXML" src="https://github.com/user-attachments/assets/20ea1764-5f90-4973-be52-edc617d41ba9" />
-* Building energy simulation based on [EnergyPlus™](https://github.com/NREL/EnergyPlus].
+* Building energy simulation based on [EnergyPlus](https://github.com/NREL/EnergyPlus].
 
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
@@ -103,6 +103,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
