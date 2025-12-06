@@ -73,6 +73,7 @@ Other supported formats:
 * [LOPoCS](https://github.com/Oslandia/lopocs) - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
 * [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) - Residential Building TABULA Archetype Dataset Germany
+* [Global Building Atlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - Polygon and height of buildings across the globe
 * [bSDD](https://search.bsdd.buildingsmart.org/) - buildingSMART Data Dictionary
 * ILCD - International Life Cycle Data system
 
@@ -103,6 +104,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
