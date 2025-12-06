@@ -65,7 +65,7 @@ Other supported formats:
 * DXF
 * CPIxml
 * Various 3D formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...) 
-* Various image formats (PNG, JPG, TIFF, ...)
+* Various image formats (PNG, JPG, TIFF, GeoTIFF, ...)
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
@@ -104,6 +104,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
