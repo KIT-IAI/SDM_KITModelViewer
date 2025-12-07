@@ -26,7 +26,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 
 ## Features
 * Standard functionality for displaying, navigating in and interacting with 3D models
-* Detailed presentation of attributes, property sets and relations
+* Detailed presentation of attributes, property sets, relations and geometry
 * Interactive object lists enable a direct link between the list and the 3D scene<br>
   <img width="500" alt="InteractiveLists" src="https://github.com/user-attachments/assets/f49fda25-f650-414b-8b29-90a94778fe71" />
 * Individual colour coding of objects based on attributes and properties<br>(The example shows the ThermalTransmittance property of the IFC common property sets)<br>
@@ -104,6 +104,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
