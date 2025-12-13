@@ -81,6 +81,7 @@ Other supported formats:
 * Query IFC georeferencing information
 * Creation of 3D CityGML buildings based on OSM data
 * Setup and usage of a OGC Web Feature Service
+* 3D CityGML building generation based on [GlobalBuildingAtlas]()
   
 ## Examples of Python Scripts
 * [IFC](Python/IFC)
@@ -104,6 +105,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
