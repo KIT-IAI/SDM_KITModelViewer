@@ -1,0 +1,1 @@
+GlobalBuildingAtlas provides 2D building outlines worldwide and allows access via standardized OGC WebFeatureService. This article describes how to set up the web service in KITModelViewer and how to retrieve data. It also shows how to use the GlobalBuildingAtlas BuldingCreator plugin to create 3D buildings in CityGML format from this data.
