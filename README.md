@@ -78,10 +78,10 @@ Other supported formats:
 * ILCD - International Life Cycle Data system
 
 ## Application Examples
-* Query IFC georeferencing information
+* [Query IFC georeferencing information](Documentation/IFC_GeoreferenceInfo.md)
 * Creation of 3D CityGML buildings based on OSM data
 * Setup and usage of a OGC Web Feature Service
-* 3D CityGML building generation based on [GlobalBuildingAtlas]()
+* [3D CityGML building generation based on GlobalBuildingAtlas](Documentation/CityGML_GlobalBuildingAtlas.md)
   
 ## Examples of Python Scripts
 * [IFC](Python/IFC)
@@ -105,6 +105,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
