@@ -11,5 +11,5 @@ To request building data, you first need to define an bounding box. The easiest 
 
 ## Use plugin for 3D building creation
 
-First, you need to make sure that the plugin is already installed. To do this, check under <kbd>Plugins</kbd> to see if the entry <kbd>GlobalBuildingAtlas BuildingCreator</kbd> exists. If not, download the plugin from the GitHub repo [GlobalBuildingAtlas BuildingCreator](https://github.com/orgs/KIT-IAI/packages?repo_name=SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) and install it using the menu item <kbd>Install Plugin</kbd>.
+First, you need to make sure that the plugin is already installed. To do this, check under <kbd>Plugins</kbd> to see if the entry <kbd>GlobalBuildingAtlas BuildingCreator</kbd> exists. If not, download the plugin from the GitHub repo [GlobalBuildingAtlas BuildingCreator](https://github.com/orgs/KIT-IAI/packages?repo_name=SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) and install it by using the menu item <kbd>Install Plugin</kbd>.
 Then, all you have to do is start the plugin via the corresponding menu item. If the download was successful, the 3D CityGML buildings will be created and displayed in the current scene.
