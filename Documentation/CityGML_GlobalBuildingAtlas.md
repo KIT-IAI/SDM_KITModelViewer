@@ -3,10 +3,7 @@
 ## Setup the WebService
 
 
-Url
-'''
-http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?SERVICE=WFS&VERSION=2.0.0
-'''
+Url ```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?SERVICE=WFS&VERSION=2.0.0```
 
 ## Request data from WebService
 
