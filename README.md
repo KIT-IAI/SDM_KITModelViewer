@@ -38,7 +38,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * openBIM validation based on mvdXML, including the creation and editing of mvdXML definitions<br>
   <img width="500" alt="mvdXML" src="https://github.com/user-attachments/assets/20ea1764-5f90-4973-be52-edc617d41ba9" />
 * Building energy simulation using [EnergyPlus™](https://github.com/NREL/EnergyPlus). Support for IDF and epJSON data sets, visualization of building geometry, display of parameters, simulation, and presentation of results.
-  <img width="1377" height="1046" alt="grafik" src="https://github.com/user-attachments/assets/dc7997de-7f4c-42b8-8f83-733e78e584ae" />
+  <img width="1919" height="1679" alt="grafik" src="https://github.com/user-attachments/assets/72defcf5-4eaf-4fc4-84ae-1ddd012081ab" />
 
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
@@ -106,6 +106,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
