@@ -3,7 +3,7 @@
 ## Setup the WebService
 
 Go to the <kbd>Web Service Toolbar</kbd>, use the context menu <kbd>Add New Web Service</kbd> and fill the dialog.<br>
-Url: ```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?```<br><br>
+Url: <code>```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?```</code><br><br>
 <img width="471" height="463" alt="grafik" src="https://github.com/user-attachments/assets/d405b425-2f47-447c-9129-7bb1bc8f24b5" />
 
 
