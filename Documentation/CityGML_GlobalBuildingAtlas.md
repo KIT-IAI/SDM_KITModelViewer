@@ -2,7 +2,7 @@
 [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) provides 2D building outlines worldwide and allows access via standardized OGC WebFeatureService. This article describes how to set up the web service in KITModelViewer and how to retrieve data. It also shows how to use the [GlobalBuildingAtlas BuldingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) plugin to create 3D buildings in CityGML format from this data.
 ## Setup the WebService
 
-Go to the Web Service toolbar, use the context menu an Add New Web Service with the following Url ```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?SERVICE=WFS&VERSION=2.0.0```.
+Go to the <kbd>Web Service toolbar</kbd>, use the context menu an <kbd>Add New Web Service</kbd> with the following Url ```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?SERVICE=WFS&VERSION=2.0.0```.
 
 ## Request data from WebService
 
