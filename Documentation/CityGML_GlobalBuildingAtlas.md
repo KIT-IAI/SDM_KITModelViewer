@@ -8,6 +8,7 @@ Url: ```http://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?```<br><br>
 
 
 ## Request data from WebService
+To request building data, you first need to select an area. The easiest way to do this is to use a map query <kbd>New Map</kbd>. Then use the <kbd>Web Service Toolbar</kbd> to create a query with <kbd>Get Specific Feature</kbd>. Use the <kbd>Bounding Box</kbd> button in the Filteroptions to apply the bounding box of the current scene. The new filter is entered in the list below. Activate the filter and submit the query.
 
 ## Use plugin for 3D building creation
 
