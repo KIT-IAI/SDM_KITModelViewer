@@ -33,7 +33,7 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="ColorCoding_u-Value" src="https://github.com/user-attachments/assets/fde0d293-5e5a-48a0-b3a3-556f2413f16e" />
 * BIM and GIS integration. Merging different models and file formats in one 3D scene<br>(The example shows merged data containing IFC, CityGML and a map service)<br>
   <img width="500" alt="ModelMerge" src="https://github.com/user-attachments/assets/d4471f66-b342-4515-8b87-3a7dfdbb81e3" />
-* Georeferencing support for a wide range of different spatial reference systems<br>
+* Georeferencing support for a wide range of spatial reference systems<br>
   <img width="500" alt="CityGML_GeoReference" src="https://github.com/user-attachments/assets/d9cd3e62-8b13-43e2-b3e4-9d13b2db5f2f" />
 * openBIM validation based on mvdXML, including the creation and editing of mvdXML definitions<br>
   <img width="500" alt="mvdXML" src="https://github.com/user-attachments/assets/20ea1764-5f90-4973-be52-edc617d41ba9" />
@@ -106,6 +106,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
