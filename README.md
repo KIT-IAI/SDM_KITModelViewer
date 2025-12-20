@@ -57,6 +57,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * Panorama images (tif, jpg, png, ...)
 
 Other supported formats:
+* CityJSON
 * Shapefile
 * GeoJSON
 * GeoPackage
@@ -106,6 +107,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
