@@ -3,7 +3,7 @@
 * [KITModelViewer](https://www.iai.kit.edu/ifc) - Windows® freeware application
 * [Plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) - Software development kit for developing your own plugins 
 * [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) - Open-source plugin for a Python API
-* [Plugin_General](https://github.com/KIT-IAI/SDM_Plugin_General) - Repository with open-source plugins
+* [Plugin General](https://github.com/KIT-IAI/SDM_Plugin_General) - Repository with open-source plugins
 <br>
 
 The [KITModelViewer](https://www.iai.kit.edu/ifc) is a Windows® freeware application developed at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu) at KIT ([Karlsruhe Institute of Technology](https://www.kit.edu/)). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus is on open, standardised data formats.
@@ -107,6 +107,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
