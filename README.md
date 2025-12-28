@@ -19,7 +19,7 @@ In addition to the two major data models IFC and CityGML, a whole range of other
 Two APIs are available for the KITModelViewer. One is a [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) for the rapid development of compact scripts to evaluate the imported data or for the development of more complex Python plugins with integration of external modules. The Python Plugin is available as open source and is realized as a plugin based on the C++ plugin SDK.
 For more experienced developers with C++ knowledge, a [plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) is available that provides full access to the internal data structures and functionalities.
 
-An overview of freely available plugins can be found here: [SDM_Plugin_General](https://github.com/KIT-IAI/SDM_Plugin_General)
+An overview of freely available plugins can be found in the [Plugin Repository](https://github.com/KIT-IAI/SDM_Plugin_General).
 
 The sources of the KITModelViewer are not publicly accessible for various reasons, but it is planned to publish individual, selected parts of the source code, especially in relation with the plugin mechanism.
 In addition, various use cases for the application of the KITModelViewer with different data formats will be documented in this repo.
@@ -107,6 +107,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
