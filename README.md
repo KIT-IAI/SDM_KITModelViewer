@@ -6,7 +6,7 @@
 * [Plugin General](https://github.com/KIT-IAI/SDM_Plugin_General) - Repository with open-source plugins
 <br>
 
-The [KITModelViewer](https://www.iai.kit.edu/ifc) is a Windows® freeware application developed by the "Semantic Data Models" (SDM) working group at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/english/) (IAI), [Karlsruhe Institute of Technology](https://www.kit.edu/english/)) (KIT). It is used to visualise and analyze semantic data models from the fields of BIM (Building Information Modelling) and GIS (Geographic Information Systems). The focus is on open, standardised data formats.
+[KITModelViewer](https://www.iai.kit.edu/ifc) is a Windows® freeware application developed by the Semantic Data Models (SDM) working group at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/english/) (IAI), [Karlsruhe Institute of Technology](https://www.kit.edu/english/) (KIT). It is used to visualize and analyze semantic data models from the fields of BIM (Building Information Modeling) and GIS (Geographic Information Systems). The focus is on open, standardized data formats.
 
 On the detail level of buildings, the IFC data model is supported in the SPF (STEP Physical File) and ifcXML file formats from version IFC2X onwards. For the building simulation, gbXML (Green Building XML) is supported, which serves as an exchange file format from BIM to energy simulation systems.
 
@@ -107,6 +107,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
