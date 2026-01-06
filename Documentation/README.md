@@ -8,12 +8,6 @@ In addition to the File open menu item, a file can also be read in using drag & 
 
 In various dialogues and menus, buttons and menu entries are assigned twice. Their functionality is displayed and controlled by pressing the <kbd>CRTL</kbd> key.
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ### Browser Toolbar
 Keyboard control<br>
 
