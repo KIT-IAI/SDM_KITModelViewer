@@ -17,26 +17,61 @@ td, th {
 ### Browser Toolbar
 Keyboard control<br>
 
-|        |        |
-|:-------|:------:|
-|<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>|
-|<kbd>&uarr;</kbd>                   |Navigate to previous element<br>|
-|<kbd>&darr;</kbd>                   |Navigate to next element<br>|
-|<kbd>&rarr;</kbd>                   |Navigate one level down<br>|
-|<kbd>&larr;</kbd>                   |Navigate one level up<br>|
-|<kbd>\+</kbd>                       |Show child elements<br>|
-|<kbd>\-</kbd>                       |Hide child elements<br>|
-|<kbd>HOME</kbd>                     |Navigate to first element<br>|
-|<kbd>END</kbd>                      |Navigate to last element<br>|
-|<kbd>Page Up</kbd>                  |Navigate page up<br>|
-|<kbd>Page Down</kbd>                |Navigate page down<br>|
-|<kbd>CRTL</kbd> + <kbd>L</kbd>      |Show or hide tree lines<br>|
-|<kbd>CRTL</kbd> + <kbd>B</kbd>      |Draw bold tree lines<br>|
-|<kbd>CRTL</kbd> + <kbd>S</kbd>      |Change tree style<br>|
-
-
-**<kbd>CTRL</kbd> + <kbd>A</kbd>**  
-Select all root elements
-
-**<kbd>↑</kbd>**  
-Navigate to previous element
+<table>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>A</kbd></td>
+    <td>Select all root elements</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>&uarr;</kbd></td>
+    <td>Navigate to previous element</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>&darr;</kbd></td>
+    <td>Navigate to next element</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>&rarr;</kbd></td>
+    <td>Navigate one level down</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>&larr;</kbd></td>
+    <td>Navigate one level up</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>+</kbd></td>
+    <td>Show child elements</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>-</kbd></td>
+    <td>Hide child elements</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>HOME</kbd></td>
+    <td>Navigate to first element</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>END</kbd></td>
+    <td>Navigate to last element</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>Page Up</kbd></td>
+    <td>Navigate page up</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>Page Down</kbd></td>
+    <td>Navigate page down</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>L</kbd></td>
+    <td>Show or hide tree lines</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>B</kbd></td>
+    <td>Draw bold tree lines</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>S</kbd></td>
+    <td>Change tree style</td>
+  </tr>
+</table>
