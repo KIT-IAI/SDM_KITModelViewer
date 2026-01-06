@@ -17,61 +17,61 @@ td, th {
 ### Browser Toolbar
 Keyboard control<br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>A</kbd></td>
-    <td>Select all root elements</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>A</kbd></td>
+    <td style="border: none; padding: 4px 0;">Select all root elements</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>&uarr;</kbd></td>
-    <td>Navigate to previous element</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>&uarr;</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate to previous element</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>&darr;</kbd></td>
-    <td>Navigate to next element</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>&darr;</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate to next element</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>&rarr;</kbd></td>
-    <td>Navigate one level down</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>&rarr;</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate one level down</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>&larr;</kbd></td>
-    <td>Navigate one level up</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>&larr;</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate one level up</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>+</kbd></td>
-    <td>Show child elements</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>+</kbd></td>
+    <td style="border: none; padding: 4px 0;">Show child elements</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>-</kbd></td>
-    <td>Hide child elements</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>-</kbd></td>
+    <td style="border: none; padding: 4px 0;">Hide child elements</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>HOME</kbd></td>
-    <td>Navigate to first element</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>HOME</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate to first element</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>END</kbd></td>
-    <td>Navigate to last element</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>END</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate to last element</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>Page Up</kbd></td>
-    <td>Navigate page up</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>Page Up</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate page up</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>Page Down</kbd></td>
-    <td>Navigate page down</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>Page Down</kbd></td>
+    <td style="border: none; padding: 4px 0;">Navigate page down</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>L</kbd></td>
-    <td>Show or hide tree lines</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>L</kbd></td>
+    <td style="border: none; padding: 4px 0;">Show or hide tree lines</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>B</kbd></td>
-    <td>Draw bold tree lines</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>B</kbd></td>
+    <td style="border: none; padding: 4px 0;">Draw bold tree lines</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>S</kbd></td>
-    <td>Change tree style</td>
+    <td style="border: none; padding: 4px 12px 4px 0; white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>S</kbd></td>
+    <td style="border: none; padding: 4px 0;">Change tree style</td>
   </tr>
 </table>
