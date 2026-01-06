@@ -8,13 +8,19 @@ In addition to the File open menu item, a file can also be read in using drag & 
 
 In various dialogues and menus, buttons and menu entries are assigned twice. Their functionality is displayed and controlled by pressing the <kbd>CRTL</kbd> key.
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ### Browser Toolbar
 Keyboard control<br>
-    <kbd>CRTL</kbd> + <kbd>A</kbd>      Select all root elements<br>
-    <kbd>&uarr;</kbd>                   Navigate to previous element<br>
-    <kbd>&darr;</kbd>                   Navigate to next element<br>
-    <kbd>&rarr;</kbd>                   Navigate one level down<br>
-    <kbd>&larr;</kbd>                   Navigate one level up<br>
+    |<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>
+    |<kbd>&uarr;</kbd>                   |Navigate to previous element<br>
+    |<kbd>&darr;</kbd>                   |Navigate to next element<br>
+    |<kbd>&rarr;</kbd>                   |Navigate one level down<br>
+    |<kbd>&larr;</kbd>                   |Navigate one level up<br>
     <kbd>\+</kbd>                       Show child elements<br>
     <kbd>\-</kbd>                       Hide child elements<br>
     <kbd>HOME</kbd>                     Navigate to first element<br>
