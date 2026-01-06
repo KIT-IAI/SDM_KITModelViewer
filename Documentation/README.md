@@ -18,17 +18,18 @@ td, th {
 Keyboard control<br>
 
 |        |        |
+|:-------|:------:|
 |<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>|
 |<kbd>&uarr;</kbd>                   |Navigate to previous element<br>|
 |<kbd>&darr;</kbd>                   |Navigate to next element<br>|
 |<kbd>&rarr;</kbd>                   |Navigate one level down<br>|
 |<kbd>&larr;</kbd>                   |Navigate one level up<br>|
-    <kbd>\+</kbd>                       Show child elements<br>
-    <kbd>\-</kbd>                       Hide child elements<br>
-    <kbd>HOME</kbd>                     Navigate to first element<br>
-    <kbd>END</kbd>                      Navigate to last element<br>
-    <kbd>Page Up</kbd>                  Navigate page up<br>
-    <kbd>Page Down</kbd>                Navigate page down<br>
-    <kbd>CRTL</kbd> + <kbd>L</kbd>      Show or hide tree lines<br>
-    <kbd>CRTL</kbd> + <kbd>B</kbd>      Draw bold tree lines<br>
-    <kbd>CRTL</kbd> + <kbd>S</kbd>      Change tree style<br>
+|<kbd>\+</kbd>                       |Show child elements<br>|
+|<kbd>\-</kbd>                       |Hide child elements<br>|
+|<kbd>HOME</kbd>                     |Navigate to first element<br>|
+|<kbd>END</kbd>                      |Navigate to last element<br>|
+|<kbd>Page Up</kbd>                  |Navigate page up<br>|
+|<kbd>Page Down</kbd>                |Navigate page down<br>|
+|<kbd>CRTL</kbd> + <kbd>L</kbd>      |Show or hide tree lines<br>|
+|<kbd>CRTL</kbd> + <kbd>B</kbd>      |Draw bold tree lines<br>|
+|<kbd>CRTL</kbd> + <kbd>S</kbd>      |Change tree style<br>|
