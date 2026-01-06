@@ -16,11 +16,11 @@ td, th {
 
 ### Browser Toolbar
 Keyboard control<br>
-    |<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>
-    |<kbd>&uarr;</kbd>                   |Navigate to previous element<br>
-    |<kbd>&darr;</kbd>                   |Navigate to next element<br>
-    |<kbd>&rarr;</kbd>                   |Navigate one level down<br>
-    |<kbd>&larr;</kbd>                   |Navigate one level up<br>
+    |<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>|
+    |<kbd>&uarr;</kbd>                   |Navigate to previous element<br>|
+    |<kbd>&darr;</kbd>                   |Navigate to next element<br>|
+    |<kbd>&rarr;</kbd>                   |Navigate one level down<br>|
+    |<kbd>&larr;</kbd>                   |Navigate one level up<br>|
     <kbd>\+</kbd>                       Show child elements<br>
     <kbd>\-</kbd>                       Hide child elements<br>
     <kbd>HOME</kbd>                     Navigate to first element<br>
