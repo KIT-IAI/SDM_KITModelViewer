@@ -16,7 +16,7 @@ td, th {
 
 ### Browser Toolbar
 Keyboard control<br>
-| Links           | Mitte          |
+
 |:----------------|:--------------:|
 |<kbd>CRTL</kbd> + <kbd>A</kbd>      |Select all root elements<br>|
 |<kbd>&uarr;</kbd>                   |Navigate to previous element<br>|
