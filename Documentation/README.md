@@ -33,3 +33,10 @@ Keyboard control<br>
 |<kbd>CRTL</kbd> + <kbd>L</kbd>      |Show or hide tree lines<br>|
 |<kbd>CRTL</kbd> + <kbd>B</kbd>      |Draw bold tree lines<br>|
 |<kbd>CRTL</kbd> + <kbd>S</kbd>      |Change tree style<br>|
+
+
+**<kbd>CTRL</kbd> + <kbd>A</kbd>**  
+Select all root elements
+
+**<kbd>↑</kbd>**  
+Navigate to previous element
