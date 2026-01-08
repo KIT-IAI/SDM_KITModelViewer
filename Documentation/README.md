@@ -26,11 +26,11 @@ Keyboard control<br>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>&rarr;</kbd></td>
-    <td>Navigate one level down</td>
+    <td>Navigate down a level</td>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>&larr;</kbd></td>
-    <td>Navigate one level up</td>
+    <td>Navigate up a level</td>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>+</kbd></td>
@@ -50,11 +50,11 @@ Keyboard control<br>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>Page Up</kbd></td>
-    <td>Navigate page up</td>
+    <td>Navigate up a page</td>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>Page Down</kbd></td>
-    <td>Navigate page down</td>
+    <td>Navigate down a page</td>
   </tr>
   <tr>
     <td style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>L</kbd></td>
