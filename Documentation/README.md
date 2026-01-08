@@ -21,7 +21,7 @@ Keyboard control<br>
     <td>Navigate to previous element</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;; text-align: center"><kbd>&darr;</kbd></td>
+    <td style="white-space: nowrap; text-align: center;"><kbd>&darr;</kbd></td>
     <td>Navigate to next element</td>
   </tr>
   <tr>
