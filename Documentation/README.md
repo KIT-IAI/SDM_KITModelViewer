@@ -57,6 +57,18 @@ Keyboard control<br>
     <td>Navigate down a page</td>
   </tr>
   <tr>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>E</kbd></td>
+    <td>Expand all subnodes</td>
+  </tr>
+  <tr>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>+</kbd></td>
+    <td>Expand all subnodes</td>
+  </tr>
+  <tr>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>-</kbd></td>
+    <td>Collapse all subnodes</td>
+  </tr>
+  <tr>
     <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>L</kbd></td>
     <td>Show or hide tree lines</td>
   </tr>
