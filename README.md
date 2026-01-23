@@ -10,7 +10,7 @@
 
 On the detail level of buildings, the IFC data model is supported in the SPF (STEP Physical File) and ifcXML file formats from version IFC2X onwards. For the building simulation, gbXML (Green Building XML) is supported, which serves as an exchange file format from BIM to energy simulation systems.
 
-On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) extension concept.
+On the detail level of cities and districts, CityGML is supported from version 0.4.0 onwards including the ADE (Application Domain Extension) concept.
 
 In addition to the two major data models IFC and CityGML, a wide range of further data formats is supported, either [file-based](#Supported-data-models-and-file-formats) or via [web service](#Supported-web-services).
 
@@ -108,6 +108,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
