@@ -54,6 +54,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 * EnergyPlus (IDF, epJSON)
 * CIM - Common Information Model (IEC 61970]
 * Pointcloud data (e57, las, laz, lad, xyz, pts, ...)
+* Georeferenced Images - GeoTIFF / Images + World File (jgw, pgw, tfw)
 * Panorama images (tif, jpg, png, ...)
 
 Other supported formats:
@@ -108,6 +109,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
