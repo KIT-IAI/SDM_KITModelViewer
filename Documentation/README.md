@@ -8,7 +8,7 @@ In addition to the File open menu item, a file can also be read in using drag & 
 
 In various dialogues and menus, buttons and menu entries are assigned twice. Their functionality is displayed and controlled by pressing the <kbd>CRTL</kbd> key.
 
-In some 3D formats, the z-axis is the screen axis. To rotate the data around the x-axis, you can use the key combination <kbd>CRTL</kbd> + <kbd>SHIFT</kbd> + <kbd>U</kbd>.
+In some 3D formats, the z-axis is the screen axis. By using <kbd>CRTL</kbd> + <kbd>SHIFT</kbd> + <kbd>U</kbd> a rotation around the x-axis can be performed.
 
 ### Browser Toolbar
 Keyboard control<br>
