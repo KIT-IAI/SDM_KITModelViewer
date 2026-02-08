@@ -68,7 +68,7 @@ Other supported formats:
 * CPIxml
 * Various 3D formats using [assimp](https://github.com/assimp/assimp) (FBX, OBJ, glTF, ...)
 * Gaussian Splatting (PLY, [SPZ](https://github.com/nianticlabs/spz)) reading point data
-* Panorama images (tif, jpg, png, ...
+* Panorama images (tif, jpg, png, ...)
 * Various image formats (PNG, JPG, TIFF, ...)
 
 ## Supported web services
@@ -109,6 +109,7 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 	date         = {2025}
 }
 ```
+
 
 
 
