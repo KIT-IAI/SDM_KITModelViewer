@@ -101,11 +101,11 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 
 ## Used tools
 - [ECCO Toolkit](https://www.pdtec.de/)
-- [csgjs-cpp]()
-- [E57Lib]()
+- [csgjs-cpp](https://github.com/executionunit/csgjs-cpp)
+- [libE57](http://libe57.org/)
 - [Assimp](https://github.com/assimp/assimp)
 - [Open Cascade](https://github.com/Open-Cascade-SAS/OCCT)
-- [Cromium Embeded Framework (CEF)]()
+- [Cromium Embeded Framework (CEF)](https://github.com/chromiumembedded/cef)
 
 ## How to cite
 
