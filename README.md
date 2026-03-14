@@ -99,6 +99,14 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 > [!IMPORTANT]
 > Make sure that these packages are installed and the latest version of the redistributables is used.
 
+## Used tools
+- [ECCO Toolkit](https://www.pdtec.de/)
+- [csgjs-cpp]()
+- [E57Lib]()
+- [Assimp](https://github.com/assimp/assimp)
+- [Open Cascade](https://github.com/Open-Cascade-SAS/OCCT)
+- [Cromium Embeded Framework (CEF)]()
+
 ## How to cite
 
 ```bibtex
