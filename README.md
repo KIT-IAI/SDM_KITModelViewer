@@ -40,7 +40,7 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="mvdXML" src="https://github.com/user-attachments/assets/20ea1764-5f90-4973-be52-edc617d41ba9" />
 * Building energy simulation using [EnergyPlus™](https://github.com/NREL/EnergyPlus). Support for IDF and epJSON data sets, visualization of building geometry, display of parameters, simulation, and presentation of results.<br>
   <img width="500" alt="EnergyPlus" src="https://github.com/user-attachments/assets/ee549246-5f27-4e4f-9103-55ad83811a8d" />
-* Interactive schematic view of relations and elements
+* Interactive schematic view of relations and elements<br>
   <img width="500" alt="SchematicView" src="https://github.com/user-attachments/assets/25cab689-dff6-42a6-988e-8f4a0b1d9bbe" />
   
 ## Supported data models and file formats
