@@ -115,10 +115,10 @@ The KITModelViewer is developed for the Windows® operating system and requires 
 
 ```bibtex
 @software{SDM_KITModelViewer,
-	title        = {SDM_KITModelViewer},
-	author       = {{Andreas Geiger}},
+	title        = {{SDM\_KITModelViewer}},
+	author       = {Andreas Geiger},
 	url          = {https://github.com/KIT-IAI/SDM_KITModelViewer},
-	date         = {2025}
+	year         = {2025}
 }
 ```
 
