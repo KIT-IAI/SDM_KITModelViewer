@@ -6,7 +6,8 @@ There are two ways to access the GBA data:
 ## Option 1 - Using web request:
 
 From version 7.6 of KITModelViewer, there is a direct menu option for data retrieval under 'Connect to' in the main menu.
-It is important to note that the availability of the service is very limited!
+[!NOTE]
+The availability of the service seems to be unstable.
 
 ## Option 2 - Using OGC WFS (Web Feature Service):
 
