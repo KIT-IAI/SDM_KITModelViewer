@@ -1,13 +1,14 @@
 # 3D CityGML building generation based on GlobalBuildingAtlas
 [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) provides 2D building outlines worldwide and allows access via standardized OGC WebFeatureService. This article describes how to set up the web service in KITModelViewer and how to retrieve data. It also shows how to use the [GlobalBuildingAtlas BuldingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) plugin to create 3D buildings in CityGML format from this data.
 
+> [!NOTE]
+> The availability of the service seems to be unstable.
+
 There are two ways to access the GBA data:
 
 ## Option 1 - Using web request:
 
 From version 7.6 of KITModelViewer, there is a direct menu option for data retrieval under 'Connect to' in the main menu.
-> [!NOTE]
-> The availability of the service seems to be unstable.
 
 ## Option 2 - Using OGC WFS (Web Feature Service):
 
