@@ -20,4 +20,4 @@ Then, all you have to do is start the plugin via the corresponding menu item. If
 
 
 ## New request option with KITModelViewer version 7.6 :
-Starting with version 7.6 of the KITModelViewer, there is a direct menu option for data request under “Connect to” in the main menu.
+Starting with version 7.6 of the KITModelViewer, there is a direct menu option for data request under <kbd>Connect to</kbd> in the main menu.
