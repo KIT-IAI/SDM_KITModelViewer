@@ -59,19 +59,11 @@ Keyboard control<br>
     <td>Navigate down a page</td>
   </tr>
   <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>E</kbd>/<kbd>CTRL</kbd> + <kbd>+</kbd></td>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>E</kbd> / <kbd>CTRL</kbd> + <kbd>+</kbd></td>
     <td>Expand all subnodes</td>
   </tr>
   <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>+</kbd></td>
-    <td>Expand all subnodes</td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>C</kbd></td>
-    <td>Collapse all subnodes</td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>-</kbd></td>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>C</kbd> / <kbd>CTRL</kbd> + <kbd>-</kbd></td>
     <td>Collapse all subnodes</td>
   </tr>
   <tr>
