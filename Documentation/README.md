@@ -15,7 +15,7 @@ Keyboard control<br>
 
 <table>
   <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>A</kbd></td>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd>+<kbd>A</kbd></td>
     <td>Select all root elements</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Keyboard control<br>
     <td>Navigate down a page</td>
   </tr>
   <tr>
-    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>E</kbd></td>
+    <td align="center" style="white-space: nowrap;"><kbd>CTRL</kbd> + <kbd>E</kbd>/<kbd>CTRL</kbd> + <kbd>+</kbd></td>
     <td>Expand all subnodes</td>
   </tr>
   <tr>
