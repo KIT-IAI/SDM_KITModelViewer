@@ -1,7 +1,11 @@
 # 3D CityGML building generation based on GlobalBuildingAtlas
 
-> [!NOTE]
+> [!IMPORTANT]
 > The availability of the service seems to be unstable.
+
+> [NOTE]
+> ## New request option with KITModelViewer version 7.6
+> Starting with version 7.6 of the KITModelViewer, there is a direct menu option for data request under <kbd>Connect to</kbd> in the main menu.
 
 [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) provides 2D building outlines worldwide and allows access via standardized OGC WebFeatureService. This article describes how to set up the web service in KITModelViewer and how to retrieve data. It also shows how to use the [GlobalBuildingAtlas BuldingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) plugin to create 3D buildings in CityGML format from this data.
 
@@ -17,7 +21,3 @@ Activate the “global3D:lod1_global” feature in the table and set the request
 ## 3. Use plugin for 3D building creation
 First, you need to make sure that the plugin is already installed. To do this, check under <kbd>Plugins</kbd> to see if the entry <kbd>GlobalBuildingAtlas BuildingCreator</kbd> exists. If not, download the plugin from the GitHub repo [GlobalBuildingAtlas BuildingCreator](https://github.com/orgs/KIT-IAI/packages?repo_name=SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) and install it by using the menu item <kbd>Install Plugin</kbd>.
 Then, all you have to do is start the plugin via the corresponding menu item. If the download was successful, the 3D CityGML buildings will be created and displayed in the current scene.
-
-
-## New request option with KITModelViewer version 7.6 :
-Starting with version 7.6 of the KITModelViewer, there is a direct menu option for data request under <kbd>Connect to</kbd> in the main menu.
