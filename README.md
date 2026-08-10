@@ -44,7 +44,8 @@ In addition, various use cases for the application of the KITModelViewer with di
 * Interactive schematic view of relations and elements<br>
   <img width="500" alt="SchematicView" src="https://github.com/user-attachments/assets/25cab689-dff6-42a6-988e-8f4a0b1d9bbe" />
 * Style Rendering of XPlanGML Data: Conversion of raw GML geometries and interpretation of planning and legal provisions in land-use plans into symbols, hatch patterns, and boundaries signatures<br>
-  <img width="500" alt="StyleRendering" src="https://github.com/user-attachments/assets/02393445-fc1f-48b5-9563-5d6d8f3f82fa" />
+  <img width="500" alt="StyleRendering" src="https://github.com/user-attachments/assets/b55678bd-cdcd-4f5c-8962-6b13526d9240" />
+
 
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
