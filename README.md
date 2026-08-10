@@ -43,7 +43,9 @@ In addition, various use cases for the application of the KITModelViewer with di
   <img width="500" alt="EnergyPlus" src="https://github.com/user-attachments/assets/ee549246-5f27-4e4f-9103-55ad83811a8d" />
 * Interactive schematic view of relations and elements<br>
   <img width="500" alt="SchematicView" src="https://github.com/user-attachments/assets/25cab689-dff6-42a6-988e-8f4a0b1d9bbe" />
-  
+* Style Rendering of XPlanGML Data: Conversion of raw GML geometries and interpretation of planning and legal provisions in land-use plans into symbols, hatch patterns, and boundaries signatures<br>
+  <img width="500" alt="StyleRendering" src="https://github.com/user-attachments/assets/02393445-fc1f-48b5-9563-5d6d8f3f82fa" />
+
 ## Supported data models and file formats
 * IFC - Industry Foundation Classes
 * gbXML - Green Building XML
