@@ -80,7 +80,7 @@ Other supported formats:
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
-* OGC API
+* OGC API (Common, Features)
 * Web map services (Google, OSM, Bing, ...)
 * [LOPoCS](https://github.com/Oslandia/lopocs) - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
