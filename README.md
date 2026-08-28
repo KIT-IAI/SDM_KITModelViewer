@@ -56,6 +56,7 @@ In addition, various use cases for the application of the KITModelViewer with di
 	* INSPIRE
  	* NAS
   	* ALKIS-WFS
+  	* OGC API
   	* ...
 * LandXML
 * EnergyPlus (IDF, epJSON)
