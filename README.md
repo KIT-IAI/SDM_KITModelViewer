@@ -56,7 +56,6 @@ In addition, various use cases for the application of the KITModelViewer with di
 	* INSPIRE
  	* NAS
   	* ALKIS-WFS
-  	* OGC API
   	* ...
 * LandXML
 * EnergyPlus (IDF, epJSON)
@@ -81,6 +80,7 @@ Other supported formats:
 
 ## Supported web services
 * OGC Web Services (WFS, WMS, WMTS, WCS, W3DS, SOS, WPS, ...)
+* OGC API
 * Web map services (Google, OSM, Bing, ...)
 * [LOPoCS](https://github.com/Oslandia/lopocs) - Light OpenSource PointCloud Server
 * OpenStreetMap (OSM API, Overpass API)
