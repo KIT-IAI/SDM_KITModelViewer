@@ -92,7 +92,7 @@ Other supported formats:
 ## Application Examples
 * [Query IFC georeferencing information](Documentation/IFC_GeoreferenceInfo.md)
 * Creation of 3D CityGML buildings based on OSM data
-* Setup and usage of a OGC Web Feature Service
+* Setup and usage of a OGC Service
 * [3D CityGML building generation based on GlobalBuildingAtlas](Documentation/CityGML_GlobalBuildingAtlas.md)
   
 ## Examples of Python Scripts
