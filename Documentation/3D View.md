@@ -2,4 +2,5 @@
 
 ##Clipping Plane Settings
 
-<img width="2580" height="1140" alt="grafik" src="https://github.com/user-attachments/assets/6b127691-d0a2-4621-8179-3123339fc7da" />
+<img width="2580" height="1140" alt="grafik" src="https://github.com/user-attachments/assets/d40092a0-add8-443d-a49d-9590cb951fb3" />
+
