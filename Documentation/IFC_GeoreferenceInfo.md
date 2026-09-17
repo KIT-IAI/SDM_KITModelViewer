@@ -1,5 +1,7 @@
 # Querying IFC georeferencing information
 
+<kbd>Query</kbd> —> <kbd></kbd> —> <kbd></kbd>
+
 This dialog provides an overview of the possible georeferencing options in an IFC models.
 
 Supported types of IFC georeferencing:
