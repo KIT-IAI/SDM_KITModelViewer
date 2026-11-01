@@ -1,5 +1,6 @@
 # Documenation
 
+* FAQ - Common questions and answers about using the application
 * [3D View](3D_View.md)
 * [IFC Georeference Dialog](IFC_GeoreferenceInfo.md)
 
