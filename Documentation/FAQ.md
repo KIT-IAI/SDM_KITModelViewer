@@ -1,6 +1,6 @@
 # FAQ
 
-## Why is the coordinate system unknown?
+## Why is the spatial reference system unknown?
 
 Since there are numerous EPSG codes, only the most common SRS systems have been implemented. Additional systems will be added upon request. If your data uses a CRS that is not yet supported, please contact us or create an issue, specifying the corresponding EPSG code and, if possible, attaching a sample data set.
 
