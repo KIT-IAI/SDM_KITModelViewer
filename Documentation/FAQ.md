@@ -22,4 +22,4 @@ When you open a ZIP file, a dialog box displays the contents of the archive. Onl
 Selected files are loaded into separate new documents unless the option to merge them into a single scene is enabled.
 
 > [!NOTE]
-> Do not select any texture files. Textures are reloaded automatically.
+> Textures are reloaded automatically, so you do not need to select them. Select textures only if you want to load them as graphics in separate documents.
