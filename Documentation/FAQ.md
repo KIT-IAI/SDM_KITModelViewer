@@ -13,7 +13,7 @@ If an unknown SRS is displayed after import, the corresponding dataset can still
 
 This issue can occur when the coordinate system is activated and the data contains very large coordinates. If the distance from the coordinate origin is too large, the entire scene may be displayed at such a small scale that it appears as a blank white screen.
 
-Solution: Try deactivating the coordinate system by clicking the small tripod icon in the toolbar.
+**Solution:** Try deactivating the coordinate system by clicking the small tripod icon in the toolbar.
 
 ## What should I select when opening a ZIP file?
 
