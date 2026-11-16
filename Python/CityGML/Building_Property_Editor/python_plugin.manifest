@@ -1,3 +1,0 @@
-ACTION=Start Editor
-POPUP=CityGML Building Properties Editor
-SCRIPT=main.py
